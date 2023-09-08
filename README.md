@@ -1,6 +1,7 @@
 # Password-Generator
 
 This is a simple password generator project that I created using HTML, CSS, and JavaScript. With this tool, you can easily generate strong and secure passwords for your online accounts. This README file will provide you with all the information you need to understand, use, and contribute to this project.
+click here:- https://akshitasaxena1309.github.io/Password-Generator/
 
 **Table of Contents**
 
